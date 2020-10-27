@@ -26,6 +26,11 @@ def first_challenge
            :name => "Steven",
            :age => 30,
            :attitude => "confused"
+         },
+         :second_friend => {
+           :name => "Nurse",
+           :age => 44,
+           :attitude => "worried"
          }
        ]
      }
